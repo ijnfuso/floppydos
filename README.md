@@ -2,12 +2,12 @@
 A custom FreeDOS Floppy Diskette image.
 ![alt text](https://github.com/ijnfuso/floppydos/blob/images/IMG_1650.jpg?raw=true)
 
-# Both Image file and Individual files available in every release.
+## Both Image file and Individual files available in every release.
 
 Image file available under FLOPPYDOS.IMA;
 Individual files under branch "Files".
 
-Custom floppy image made for utility purposes.
+### Custom floppy image made for utility purposes.
 Floppy made by IJNFUSO 
 Included:
 - DosShell
