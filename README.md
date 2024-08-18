@@ -1,6 +1,9 @@
 # FloppyDOS
 A custom FreeDOS Floppy Diskette image.
 
+Image file available under FLOPPYDOS.IMA;
+Individual files under branch "Files".
+
 Custom floppy image made for utility purposes.
 Floppy made by IJNFUSO 
 Included:
