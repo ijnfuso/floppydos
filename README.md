@@ -1,6 +1,6 @@
 # FloppyDOS
 A custom FreeDOS Floppy Diskette image.
-
+![alt text](https://github.com/ijnfuso/floppydos/blob/images/IMG_1650.jpg?raw=true)
 Image file available under FLOPPYDOS.IMA;
 Individual files under branch "Files".
 
